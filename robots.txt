@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /rec/img/articles/
+Disallow: /rec/img/device/
+Disallow: /rec/img/icon/
+Disallow: /rec/img/logo/
+Disallow: /rec/img/news/
+Disallow: /rec/img/reasons/
+Disallow: /rec/img/services/
+Disallow: /rec/img/sheme/
+Disallow: /page/manufuckers/
+Disallow: /page/whattodo.html
+
+Sitemap: http://proffy.ck.ua/sitemap.xml
