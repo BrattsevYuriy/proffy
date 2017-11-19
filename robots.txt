@@ -9,7 +9,6 @@ Disallow: /rec/img/news/
 Disallow: /rec/img/reasons/
 Disallow: /rec/img/services/
 Disallow: /rec/img/sheme/
-Disallow: /page/manufuckers/
-Disallow: /page/whattodo.html
+Disallow: /page/ourworks.html
 
 Sitemap: http://proffy.ck.ua/sitemap.xml

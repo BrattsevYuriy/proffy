@@ -148,3 +148,8 @@ ul li a:hover {
     height: auto;
     width: auto;
 }
+
+.adressLine {
+    border-bottom: 1px #666666 solid;
+    border-top: 1px #666666 solid;
+}
