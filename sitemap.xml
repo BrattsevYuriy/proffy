@@ -35,7 +35,6 @@
       <lastmod>2017-11-26</lastmod>
       <changefreq>monthly</changefreq>
    </url>
-   <!---------------------------------------------------------------------------------------device ------->
    <url>
       <loc>http://proffy.ck.ua/page/devices/wash-mashine.html</loc>
       <lastmod>2017-11-19</lastmod>
@@ -131,7 +130,6 @@
       <lastmod>2017-11-19</lastmod>
       <changefreq>monthly</changefreq>
    </url>
-   <!--  -----------------------------------------------------------------------------articles-->
    <url>
       <loc>http://proffy.ck.ua/page/articles/microwavefire.html</loc>
       <lastmod>2017-11-26</lastmod>
@@ -167,14 +165,4 @@
       <lastmod>2017-11-26</lastmod>
       <changefreq>monthly</changefreq>
    </url>
-<!--      <url>
-      <loc>http://proffy.ck.ua/page/articles/cleanpraska.html</loc>
-      <lastmod>2017-11-19</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
-      <url>
-      <loc>http://proffy.ck.ua/page/articles/mixusegrule.html</loc>
-      <lastmod>2017-11-19</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>-->
 </urlset>
